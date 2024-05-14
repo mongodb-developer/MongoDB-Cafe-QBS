@@ -4,6 +4,7 @@ Please note: This is the web app version developed using the Realm Web & Atlas D
 # Description:
 This web app share the same theme with MongoCoffeeMenu. The app was built based on Realm Web(https://www.npmjs.com/package/realm-web) and Atlas Device Sync (Web SDK Preview)(https://www.mongodb.com/docs/realm/web/sync/#get-started-with-realm-web---atlas-device-sync--preview-).
 The app works as a very simple coffee conusmption calculator that allows the user to select what coffee they had during the day. The major difference between this web app and MongoCoffeeMenu is that this app takes advantage of Device sync(Flexible sync) and syncs total coffee consumption with the backend automatically. The user no longer need a button to manually trigger data sync. 
+![](https://github.com/mongodb-developer/MongoDB-Cafe-QBS/blob/main/Screenshot%202024-05-14%20at%2016.32.46.png)
 
 ## Components:
 1. Realm Web v2.0.0 [https://www.npmjs.com/package/realm-web]
